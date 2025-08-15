@@ -5,7 +5,7 @@
 ---
 
 ###  Ver proyecto completo  
-[Ver el proyecto en Behance: Bancón App – Rediseño Coder house](https://www.behance.net/gallery/192131269/Bancon-App-Rediseno-Coder-house) (Publicado el 22 de febrero de 2024) :contentReference[oaicite:0]{index=0}
+[Ver el proyecto en Behance: Bancón App – Rediseño Coder house](https://www.behance.net/gallery/192131269/Bancon-App-Rediseno-Coder-house) (Publicado el 22 de febrero de 2024) 
 
 ---
 
